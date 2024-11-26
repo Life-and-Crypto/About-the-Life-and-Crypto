@@ -1,5 +1,7 @@
 # about-the-project
 
+# -EN
+
 This project is an educational startup.
 Our team will try to implement its assigned tasks to study the basics of validating test networks of various blockchains.
 
@@ -7,7 +9,7 @@ After successfully completing training at the validator school from the Posthuma
 
 In the future, we will try to improve the world of web3 as much as our knowledge allows us.
 
-# RU-
+# -RU
 
 Этот проект является обучающим стартапом.
 Наша команда постарается реализовать свои поставленные задачи по изучению основ валидирования тестовых сетей различных блокчейнов.
