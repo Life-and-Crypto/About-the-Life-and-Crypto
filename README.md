@@ -9,7 +9,7 @@ After successfully completing training at the validator school from the Posthuma
 
 In the future, we will try to improve the world of web3 as much as our knowledge allows us.
 
-# 12/24/2024
+# 24/12/2024
 
 Entered a mutually beneficial partnership with the [LittleFox](https://www.mintscan.io/visualization/validators/littlefox) validator
 
@@ -22,6 +22,6 @@ Entered a mutually beneficial partnership with the [LittleFox](https://www.mints
 
 В дальнейшем мы постараемся улучшать мир веб3 на столько, на сколько нам будут позволять наши знания.
 
-# 12/24/2024
+# 24/12/2024
 
 Заключили взаимовыгодное партнерство с валидатором [LittleFox](https://www.mintscan.io/visualization/validators/littlefox)
