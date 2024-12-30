@@ -15,7 +15,7 @@ Entered a mutually beneficial partnership with the [LittleFox](https://www.mints
 
 # 25/12/2024
 
-We launched a validator on the Sentinel network.
+We launched a validator on the Sentinel network and Juno network.
 
 # -RU
 
@@ -32,4 +32,4 @@ We launched a validator on the Sentinel network.
 
 # 25/12/2024
 
-Запустили валидатора в сети Sentinel
+Запустили валидатора в сети Sentinel и Juno.
