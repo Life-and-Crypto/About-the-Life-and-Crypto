@@ -17,6 +17,10 @@ Entered a mutually beneficial partnership with the [LittleFox](https://www.mints
 
 We launched a validator on the Sentinel network and Juno network.
 
+# 05/01/2025
+
+We launched a validator on the Stargaze network.
+
 # -RU
 
 Этот проект является обучающим стартапом.
@@ -33,3 +37,7 @@ We launched a validator on the Sentinel network and Juno network.
 # 25/12/2024
 
 Запустили валидатора в сети Sentinel и Juno.
+
+# 05/01/2025
+
+Запустили валидатора в сети Stargaze.
