@@ -21,6 +21,10 @@ We launched a validator on the Sentinel network and Juno network.
 
 We launched a validator on the Stargaze network.
 
+# 07/03/2025
+
+We launched a validator in the Persistence One network
+
 # -RU
 
 Этот проект является обучающим стартапом.
@@ -41,3 +45,7 @@ We launched a validator on the Stargaze network.
 # 05/01/2025
 
 Запустили валидатора в сети Stargaze.
+
+# 07/03/2025
+
+Запустили валидатора в сети Persistence One
