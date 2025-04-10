@@ -1,5 +1,3 @@
-# about-the-project
-
 # -EN
 
 This project is an educational startup.
